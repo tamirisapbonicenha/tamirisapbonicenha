@@ -4,7 +4,7 @@ My name is Tamiris, but you can call me Tamis! 🙂
 
 <img align='right' src='https://neuroplausible.com/img/posts/github.png' width='200"'>
 
-I'm a Frontend developer, from Brazil, currently working remotely at [Creditas](https://www.creditas.com/). 🌎 
+I'm a Frontend developer, from Brazil, currently working remotely at [iClinic](https://iclinic.com.br/). 🌎 
 
 #### My current stack 
 <img height="20" 
