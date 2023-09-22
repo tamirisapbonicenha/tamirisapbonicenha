@@ -4,9 +4,9 @@ My name is Tamiris, but you can call me Tamis! 🙂
 
 <img align='right' src='https://neuroplausible.com/img/posts/github.png' width='200"'>
 
-I'm a Frontend developer, from Brazil, currently working remotely at [iClinic](https://iclinic.com.br/). 🌎 
+I'm a Frontend developer, from Brazil, currently working remotely at [RDStation]([https://iclinic.com.br/](https://www.rdstation.com/)). 🌎 
 
-#### My current stack 
+#### My current stack
 <img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="20" src="https://user-images.githubusercontent.com/3744125/134911011-23ad838a-3259-4569-b94e-8f6a7c98613e.png">
 
